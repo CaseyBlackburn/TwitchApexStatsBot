@@ -12,7 +12,7 @@ After starting a session viewers can see how much RP or AP you've gained or lost
 ### Map Rotation
 The current maps in rotation for Battle Royale, Battle Royale Ranked, Arenas and Arenas Ranked. Their remaining time in the rotation and the upcoming maps can be shown as well.
 
-## Predator Cap
+### Predator Cap
 See how much RP or AP is needed to reach the barrier to Predator. (PC, Xbox, and Playstation supported.)
 
 ### Game Server Status
