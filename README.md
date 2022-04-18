@@ -1,7 +1,7 @@
 # TwitchApexStatsBot
 For full details visit [TwitchApexStats.com](https://twitchapexstats.com)
 
-Twitch Apex Stats is a collection of tools to add additional functionality to your Twitch streams for when you are playing Apex Legends. You can add additional commands to your current Twitch bot to let your viewers see your stats and other details related to Apex Legends. After added to Nightbot, Stream Elements, StreamLabs, or other supported bots your viewers can use commands such as:
+Twitch Apex Stats is a collection of tools to add additional functionality to your Twitch streams for when you are playing Apex Legends. You can add additional commands to your current Twitch bot to let your viewers see your stats and other details related to Apex Legends. After added to Nightbot, Stream Elements, StreamLabs, PhantomBot, Moobot, or other supported bots your viewers can use commands such as:
 
 ### Current Stats
 See your current level, your Battle Royale rank details (Rank, RP amount, Rank Position in Predator/Master), your Arenas rank details (Rank, AP amount, Rank Position in Predator/Master), selected legend, and currently equipped legend trackers (BR Kills, BR Damage, etc).
